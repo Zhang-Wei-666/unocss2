@@ -21,7 +21,7 @@ export class MyElement extends LitElement {
 
   render() {
     return html`
-      <span class="logo translate-x-50 blur-1"></span>
+      <span class="logo translate-x-150 blur-5"></span>
     `
   }
 }
